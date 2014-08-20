@@ -62,6 +62,7 @@ Members:
 
 - Axel Faust
 - Douglas C. R. Paes
+- Angel Borroy
 
 
 MKT - Marketing
