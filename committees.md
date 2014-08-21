@@ -82,4 +82,5 @@ Members:
 
 - Cristina Martin
 - Oksana Kurysheva
+- Jonas Heylen
 
