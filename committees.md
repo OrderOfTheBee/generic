@@ -30,6 +30,7 @@ Members:
 - Boriss Mejías
 - Martin Cosgrave
 - Lanre Abiwon
+- Oksana Kurysheva
 
 
 DISTRO - Distribution
