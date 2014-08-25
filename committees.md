@@ -14,6 +14,7 @@ Members:
 - Boriss Mejías
 - Cristina Martin
 - Lanre Abiwon
+- Heiko Robert
 
 
 INFRA - Infractructure
@@ -31,6 +32,7 @@ Members:
 - Martin Cosgrave
 - Lanre Abiwon
 - Oksana Kurysheva
+- Heiko Robert
 
 
 DISTRO - Distribution
