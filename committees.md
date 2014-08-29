@@ -67,6 +67,7 @@ Members:
 - Douglas C. R. Paes
 - Angel Borroy
 - Charles Le Seac'h
+- Tahir Malik
 
 
 MKT - Marketing
