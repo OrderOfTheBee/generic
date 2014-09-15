@@ -48,6 +48,7 @@ Members:
 
 - Andreas Steffan
 - Martin Cosgrave
+- Ben Chevallereau
 
 
 ADDONS - Add-Ons
@@ -68,6 +69,7 @@ Members:
 - Angel Borroy
 - Charles Le Seac'h
 - Tahir Malik
+- Ben Chevallereau
 
 
 MKT - Marketing
