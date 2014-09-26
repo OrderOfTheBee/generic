@@ -9,6 +9,8 @@ levels, vouching (business requirements), board election procedures, etc.
 
 Chair: To be determined.
 
+Mailing List: ootb-gov@xtreamlab.net
+
 Members:
 
 - Boriss Mejías
@@ -17,7 +19,7 @@ Members:
 - Heiko Robert
 
 
-INFRA - Infractructure
+INFRA - Infrastructure
 ----------------------------------------------------------------------
 
 Description: Define an architecture, select tools, maintain the site. Implement
@@ -25,6 +27,8 @@ business requirements given to you by the other sub-committees. Live Showcase id
 DNS and Mailing List administration.
 
 Chair: To be determined.
+
+Mailing List: ootb-infra@xtreamlab.net
 
 Members:
 
@@ -43,6 +47,8 @@ standards, source code control, QA. Set milestones. Pick a name (other than
 
 Chair: To be determined.
 
+Mailing List: ootb-distro@xtreamlab.net
+
 Members:
 
 - Andreas Steffan
@@ -60,6 +66,8 @@ maintain their add-ons, follow best practices, etc. Could be combined with
 Distribution.
 
 Chair: To be determined.
+
+Mailing List: ootb-addons@xtreamlab.net
 
 Members:
 
@@ -83,6 +91,8 @@ conferences. Find people to donate marketing schwag. This committee should also
 be responsible for the social accounts. Could be combined with the web site.
 
 Chair: To be determined.
+
+Mailing List: ootb-mkt@xtreamlab.net
 
 Members:
 
