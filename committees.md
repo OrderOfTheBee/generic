@@ -65,7 +65,7 @@ part of the standard distribution. Engage developers to encourage them to
 maintain their add-ons, follow best practices, etc. Could be combined with
 Distribution.
 
-Chair: To be determined.
+Chair: Axel Faust
 
 Mailing List: ootb-addons@xtreamlab.net
 
