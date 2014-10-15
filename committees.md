@@ -7,7 +7,7 @@ GOV - Governance
 Description: Draft a charter and some simple by-laws. Figure out voting, member
 levels, vouching (business requirements), board election procedures, etc. 
 
-Chair: To be determined.
+Chair: Boriss Mejías
 
 Mailing List: ootb-gov@xtreamlab.net
 
@@ -26,7 +26,7 @@ Description: Define an architecture, select tools, maintain the site. Implement
 business requirements given to you by the other sub-committees. Live Showcase idea.
 DNS and Mailing List administration.
 
-Chair: To be determined.
+Chair: Lanre Abiwon
 
 Mailing List: ootb-infra@xtreamlab.net
 
@@ -90,7 +90,7 @@ criteria and get them added to the list. Try to get speaking slots at
 conferences. Find people to donate marketing schwag. This committee should also 
 be responsible for the social accounts. Could be combined with the web site.
 
-Chair: To be determined.
+Chair: Oksana Kurysheva
 
 Mailing List: ootb-mkt@xtreamlab.net
 
