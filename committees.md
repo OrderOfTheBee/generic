@@ -45,7 +45,7 @@ Description: Work on how the Order-specific distribution will work. Establish
 standards, source code control, QA. Set milestones. Pick a name (other than
 "OOTB Edition"). Do the work.
 
-Chair: To be determined.
+Chair: Ben Chevallereau
 
 Mailing List: ootb-distro@xtreamlab.net
 
