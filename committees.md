@@ -54,6 +54,7 @@ Members:
 - Andreas Steffan
 - Martin Cosgrave
 - Ben Chevallereau
+- Yogesh Prajapati
 
 
 ADDONS - Add-Ons
