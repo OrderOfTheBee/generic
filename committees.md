@@ -1,6 +1,8 @@
 List of Committees and Committee Members
 ======================================================================
 
+Since Autumn 2016, all mailing lists have been consolidated into the "Hive" mailing list: ootb-hive@xtreamlab.net
+
 GOV - Governance
 ----------------------------------------------------------------------
 
@@ -8,8 +10,6 @@ Description: Draft a charter and some simple by-laws. Figure out voting, member
 levels, vouching (business requirements), board election procedures, etc. 
 
 Chair: Boriss Mejías
-
-Mailing List: ootb-gov@xtreamlab.net
 
 Members:
 
@@ -28,8 +28,6 @@ DNS and Mailing List administration.
 
 Chair: Lanre Abiwon
 
-Mailing List: ootb-infra@xtreamlab.net
-
 Members:
 
 - Martin Cosgrave
@@ -46,8 +44,6 @@ standards, source code control, QA. Set milestones. Pick a name (other than
 "OOTB Edition"). Do the work.
 
 Chair: Ben Chevallereau
-
-Mailing List: ootb-distro@xtreamlab.net
 
 Members:
 
@@ -67,8 +63,6 @@ maintain their add-ons, follow best practices, etc. Could be combined with
 Distribution.
 
 Chair: Axel Faust
-
-Mailing List: ootb-addons@xtreamlab.net
 
 Members:
 
@@ -92,8 +86,6 @@ conferences. Find people to donate marketing schwag. This committee should also
 be responsible for the social accounts. Could be combined with the web site.
 
 Chair: Oksana Kurysheva
-
-Mailing List: ootb-mkt@xtreamlab.net
 
 Members:
 
